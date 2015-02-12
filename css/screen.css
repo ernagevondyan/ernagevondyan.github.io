@@ -66,7 +66,7 @@ padding-top: 3px;
 }
 div#nav li {
 display: inline;
-min-width: 150%;
+width: 100%;
 }
 
 div#nav li a {
