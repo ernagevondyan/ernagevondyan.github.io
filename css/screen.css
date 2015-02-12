@@ -61,7 +61,8 @@ height: 60px;
 div#nav ul{
 margin-top: 0;
 padding-left: 0;
-margin-left: 204px;
+margin: 0 auto;
+text-align: center;
 padding-top: 3px;
 }
 div#nav li {
@@ -86,13 +87,10 @@ opacity: 0.3;
 padding: 0;
 }
 
-.leftmost {
-padding-left: 300px;
-}
 
 div#bodywrapper {
 width:960px;
-margin-left: 220px;
+margin: 0 auto;
 background-color: white;
 text-align: left;
 min-height: 538px;
