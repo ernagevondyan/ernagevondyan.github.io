@@ -88,6 +88,9 @@ opacity: 0.3;
 padding: 0;
 }
 
+.social img {
+padding-left: 0;
+}
 .social img:hover {
 opacity: 1;
 }
